@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hola, soy Cristian
 
-<!--
-**Cristian-ch-a/Cristian-ch-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollo software y estoy construyendo proyectos prácticos  
+📍 Interesado en aplicaciones, automatización y aprendizaje continuo  
 
-Here are some ideas to get you started:
+### 🚀 Proyectos
+- **Proyecto 1** – breve descripción – enlace
+- **Proyecto 2** – breve descripción – enlace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologías
+- Lenguaje / Herramienta
+- Lenguaje / Herramienta
+
+### 📫 Contacto
+- GitHub: https://github.com/Cristian-ch-a
