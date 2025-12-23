@@ -1,15 +1,16 @@
 ## 👋 Hola, soy Cristian
 
-💻 Desarrollo software y estoy construyendo proyectos prácticos  
-📍 Interesado en aplicaciones, automatización y aprendizaje continuo  
+💻 Estudiante de desarrollo de software, enfocado en construir proyectos prácticos  
+🚀 Aprendo programando: cada repositorio refleja un paso en mi proceso de aprendizaje  
 
-### 🚀 Proyectos
-- **Proyecto 1** – breve descripción – enlace
-- **Proyecto 2** – breve descripción – enlace
+### 📌 Proyectos
+Actualmente en desarrollo.  
+Próximamente subiré proyectos enfocados en resolver problemas concretos y practicar buenas bases de programación.
 
 ### 🧰 Tecnologías
-- Lenguaje / Herramienta
-- Lenguaje / Herramienta
+- En proceso de aprendizaje y práctica continua
 
-### 📫 Contacto
-- GitHub: https://github.com/Cristian-ch-a
+### 🎯 Objetivo
+Consolidar fundamentos sólidos en desarrollo de software y construir un portafolio claro, ordenado y funcional.
+
+📫 GitHub: https://github.com/Cristian-ch-a
